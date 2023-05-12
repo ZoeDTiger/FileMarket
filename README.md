@@ -13,26 +13,33 @@
 ### 任务清单
 #### 任务1
     通过完成 guild.xyz 的任务，在 Discord 中获得FilFam和FILearner角色。
+    
     https://guild.xyz/filemarketxyz#!
 
 #### 任务2
     通过在Zealy.io中获得lvl3在 Discord 中获得File'n'thropist角色。
+    
     https://zealy.io/c/filemarketxyz/questboard
 
 #### 任务3
     在5月15日12:00（GMT + 3）之前填写表格以获得FIL gas空投。FIL gas空投的上限是7000个地址
+    
     https://filemarket.typeform.com/to/TAYF2jLW
+    填写表格需要使用到twitter、discord、Telegram、email、以太地址，操作完成后请做好表格记录
 
 #### 任务4
     将您的钱包连接到 Filecoin 主网（此步骤涉及创建 FileWallet 并为其设置密码，确保保存“助记词”）
+    
     https://chainlist.org/chain/314
 
 #### 任务5
     mint collection（需要gas费）
+    
     https://filemarket.xyz/create/collection
 
 #### 任务6
     使用 Filecoin 存储上的加密文件令牌技术，用隐藏内容铸造NFT（需要gas费）。
+    
     https://filemarket.xyz/create/nft
     
 #### 任务7
