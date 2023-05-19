@@ -17,7 +17,7 @@
     https://guild.xyz/filemarketxyz#!
 
 #### 任务2
-    通过在Zealy.io中获得lvl3在 Discord 中获得File'n'thropist角色。
+    通过在Zealy.io中完成任务升级到3级，在 Discord 中获得File'n'thropist角色。
     
     https://zealy.io/c/filemarketxyz/questboard
 
